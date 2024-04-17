@@ -32,3 +32,12 @@ Feel free to message the [organisers](#organisers) ahead of time with your probl
     - He mostly writes in Python but has experience with Julia and R too.
     - He's particularly interested in machine learning problems and NLP and runs the [Foundation Models reading group](https://github.com/alan-turing-institute/foundation-models-reading-group) at the Turing with Fede.
     - Before joining REG, Ryan completed his PhD in Statistics at Warwick working on Monte Carlo problems and has a background in Mathematics.
+- Emma Karoune
+    - Emma is a Senior Research Community Manager in TPS and part of the Research Community Management Team.
+    - She is particularly interested in enabling research communities to work collabortively and inclusively together and embedding open science practices into data science projects.
+    - She has lots of practical experience of working in projects that need FAIR and open data management and stewardship.
+    - Emma also has experience in academic writing and scientific communication with wider audiences.
+- Vicky Hellon
+    - Vicky is a Research Community Manager for the Turing-Roche Partnership which sits within the health programme
+    - She has lots of practical community management experience and she can advise on community tools such as Slack or running events on Zoom
+    - She is also happy to chat about working with industry
