@@ -1,9 +1,9 @@
 # Turing Core Capabilities Drop-in Sessions
 
 The Core-Capabilities-Drop-in sessions are led by three teams:
+- [Data Wrangling Team](https://www.turing.ac.uk/research/data-for-research)
 - [Research Engineering Group (REG)](https://www.turing.ac.uk/work-turing/research/research-engineering-group)
 - [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)
-- [Data Wrangling Team](https://www.turing.ac.uk/research/data-for-research)
 
 These teams hold regular, informal, community-led sessions for students and researchers. Whether you have general questions on a topic, or are seeking specific technical guidance on, or just want to chat with friendly faces, our drop-in session is the perfect place for you! The sessions offer a friendly, welcoming, non-judgemental environment to receive advice or assistance without concern about being judged on technical knowledge, expertise or understanding.
 
