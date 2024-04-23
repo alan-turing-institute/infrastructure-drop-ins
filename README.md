@@ -7,7 +7,7 @@ The Core-Capabilities-Drop-in sessions are led by three teams:
 
 These teams hold regular, informal, community-led sessions for students and researchers. Whether you have general questions on a topic, or are seeking specific technical guidance on, or just want to chat with friendly faces, our drop-in session is the perfect place for you! The sessions offer a friendly, welcoming, non-judgemental environment to receive advice or assistance without concern about being judged on technical knowledge, expertise or understanding.
 
-Even if we don't have an immediate answer for you in the session, fear not! Our teams are well-connected and consists of a diverse range of Research Software Engineers (RSEs), Research Data Scientists (RDSs), Research Application Managers (RAMs), Community Managers and Data Wranglers with each member having a unique set of skills and expertise. We can seamlessly put you in touch with other members in our teams, or researchers we have worked with so you can have a chat.
+Even if we don't have an immediate answer for you in the session, fear not! Our teams are well-connected and consists of a diverse range of Research Software Engineers (RSEs), Research Data Scientists (RDSs), Research Application Managers (RAMs), Research Community Managers (RCMs) and Data Wranglers with each member having a unique set of skills and expertise. We can seamlessly put you in touch with other members in our teams, or researchers we have worked with so you can have a chat.
 
 Feel free to message the [organisers](#organisers) ahead of time with your problem on Slack, or just come by! See you at the drop-in session! 🚀
 
@@ -32,12 +32,10 @@ Feel free to message the [organisers](#organisers) ahead of time with your probl
     - He mostly writes in Python but has experience with Julia and R too.
     - He's particularly interested in machine learning problems and NLP and runs the [Foundation Models reading group](https://github.com/alan-turing-institute/foundation-models-reading-group) at the Turing with Fede.
     - Before joining REG, Ryan completed his PhD in Statistics at Warwick working on Monte Carlo problems and has a background in Mathematics.
-- Emma Karoune
-    - Emma is a Senior Research Community Manager in TPS and part of the Research Community Management Team.
+- [Emma Karoune](https://www.turing.ac.uk/people/research-associates/emma-karoune)
+    - Emma is a Senior Researcher for Research Community Building in TPS and co-lead of the Research Community Management Team.
     - She is particularly interested in enabling research communities to work collabortively and inclusively together and embedding open science practices into data science projects.
     - She has lots of practical experience of working in projects that need FAIR and open data management and stewardship.
     - Emma also has experience in academic writing and scientific communication with wider audiences.
-- Vicky Hellon
-    - Vicky is a Research Community Manager for the Turing-Roche Partnership which sits within the health programme
-    - She has lots of practical community management experience and she can advise on community tools such as Slack or running events on Zoom
-    - She is also happy to chat about working with industry
+- [Jennifer Ding](https://www.turing.ac.uk/people/business-team/jennifer-ding)
+- [Luis Santos](https://www.turing.ac.uk/people/researchers/luis-santos)
