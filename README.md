@@ -1,6 +1,6 @@
-# Turing Science and Innovation Infrastructure Drop-in Sessions
+# Turing Infrastructure Drop-in Sessions
 
-The S&I Infrastructure sessions are currently led by three teams:
+The Turing Infrastructure Drop-in sessions are currently led by three teams:
 - [Data Wrangling Team](https://www.turing.ac.uk/research/data-for-research)
 - [Research Engineering Group (REG)](https://www.turing.ac.uk/work-turing/research/research-engineering-group)
 - [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)
