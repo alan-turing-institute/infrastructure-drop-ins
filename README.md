@@ -1,6 +1,6 @@
-# Turing Core Capabilities Drop-in Sessions
+# Turing Science and Innovation Infrastructure Drop-in Sessions
 
-The Core-Capabilities-Drop-in sessions are led by three teams:
+The S&I Infrastructure sessions are led by three teams:
 - [Data Wrangling Team](https://www.turing.ac.uk/research/data-for-research)
 - [Research Engineering Group (REG)](https://www.turing.ac.uk/work-turing/research/research-engineering-group)
 - [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)
