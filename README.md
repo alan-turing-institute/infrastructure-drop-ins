@@ -13,8 +13,8 @@ Feel free to message the [organisers](#organisers) ahead of time with your probl
 
 **TODO: set up Mathison page which has Zoom link**
 
-- For examples of what we may be able to help with see our [wiki](https://github.com/alan-turing-institute/core-capabilities-drop-in/wiki) 🧐
-- Please see our wiki for the [schedule](https://github.com/alan-turing-institute/core-capabilities-drop-in/wiki/Schedule) 📅👇
+- For examples of what we may be able to help with see our [wiki](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki) 🧐
+- Please see our wiki for the [schedule](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/Schedule) 📅👇
 
 ## Organisers
 
