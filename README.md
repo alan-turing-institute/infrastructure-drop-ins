@@ -9,6 +9,8 @@ These teams hold regular, informal, community-led sessions for students and rese
 
 Even if we don't have an immediate answer for you in the session, fear not! Our teams are well-connected and consists of a diverse range of Research Software Engineers (RSEs), Research Data Scientists (RDSs), Research Application Managers (RAMs), Research Community Managers (RCMs) and Data Wranglers with each member having a unique set of skills and expertise. We can seamlessly put you in touch with other members in our teams, or researchers we have worked with so you can have a chat.
 
+The drop-ins are hybrid: depending on who is available on each day, we'll be either on Zoom (you can find the link on Mathison) or in the office in the kitchen area on the 1st floor.
+
 If you would like to attend a session, check out our [schedule](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/Schedule) 📅👇 and read about [the people](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/People) 👋 who will be available on each day. Feel free to reach out to them head of time on Slack, or just come by! See you at the drop-in session! 🚀
 
 If you have any general question, get in touch with the organisers:
