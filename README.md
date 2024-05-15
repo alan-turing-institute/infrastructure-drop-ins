@@ -1,6 +1,6 @@
 # Turing Infrastructure Drop-in Sessions
 
-The Turing Infrastructure Drop-in sessions are currently led by three teams:
+The Turing Infrastructure Drop-in sessions are currently led by the following teams:
 - [Data Wrangling Team](https://www.turing.ac.uk/research/data-for-research)
 - [Programme Management Unit (PMU)]()
 - [Research Engineering Group (REG)](https://www.turing.ac.uk/work-turing/research/research-engineering-group)
