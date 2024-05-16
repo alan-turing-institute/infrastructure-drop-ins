@@ -1,0 +1,61 @@
+# Generate index.html @ gh-pages branch, containing information about the next
+# drop-in session. See .github/workflows/dropin/README.md for more
+# information.
+#
+# Heavily inspired by, and mostly similar to, the tech talk bot (see the
+# alan-turing-institute/DataScienceSkills repository).
+
+on:
+  gollum:                     # Any time the wiki is updated
+  workflow_dispatch:          # Any time the action is manually triggered via
+                              # GitHub website
+  schedule:
+    - cron: '25 1 * * *'      # 1:25am every day
+
+jobs:
+  make-website:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # The path chosen here must be consistent with the diFile configuration
+      # variable in the Haskell source code.
+      - name: Checkout wiki git repository
+        uses: actions/checkout@v3
+        with:
+          repository: alan-turing-institute/infrastructure-drop-ins.wiki 
+          path: .github/workflows/dropin/wiki/
+
+      # The Haskell dependencies are pinned in the dropin.cabal file, so
+      # with some luck, we should never need to update this cache. If there
+      # is a need to delete the cache, do it manually from the 'Actions' >
+      # 'Management' > 'Caches' tab in the repository.
+      - name: Cache Haskell environment
+        id: cache-haskell
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cabal/store
+            .github/workflows/dropin/dist-newstyle
+          key: ${{ runner.os }}-ghc9.6.3
+
+      - name: Set up GHC 9.6.3
+        uses: haskell-actions/setup@v2
+        id: setup
+        with:
+          ghc-version: '9.6.3'
+
+      - name: Generate the website
+        run: |
+          cd .github/workflows/dropin
+          cabal run dropin
+
+      # The path chosen here must be consistent with the webOutputFile
+      # configuration variable in the Haskell source code.
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./.github/workflows/dropin/web

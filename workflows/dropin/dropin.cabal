@@ -1,0 +1,16 @@
+cabal-version:      3.0
+name:               dropin
+version:            0.1.0.0
+author:             Jonathan Yong
+maintainer:         jyong@turing.ac.uk
+
+executable dropin
+    main-is:          dropin.hs
+    build-depends:    base==4.18.1.0,
+                      directory==1.3.8.1,
+                      cmark-gfm==0.2.5,
+                      filepath==1.4.100.1,
+                      text==2.0.2,
+                      time==1.12.2,
+    hs-source-dirs:   .
+    default-language: Haskell2010
