@@ -25,7 +25,7 @@ jobs:
       - name: Checkout wiki git repository
         uses: actions/checkout@v3
         with:
-          repository: alan-turing-institute/infrastructure-drop-ins.wiki 
+          repository: ${{ github.repository }}.wiki
           path: .github/workflows/dropin/wiki/
 
       # The Haskell dependencies are pinned in the dropin.cabal file, so
