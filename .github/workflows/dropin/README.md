@@ -1,6 +1,6 @@
 # Infrastructure drop-in session notifications
 
-Note that this was written by [Jonathan Yong](https://github.com/yongrenjie) in the Research Engineering (REG) Team.
+Note that this was written by [Penny Yong](https://github.com/penelopeysm) in the Research Engineering (REG) Team.
 
 The contents of this directory allow custom drop-in session notifications to be posted in Slack.
 
@@ -66,4 +66,4 @@ An overview of the steps is as follows:
 
 **...do something else not listed here**:
 
-- If anything about this is unclear (or if the displayed results are not correct), please message Jonathan Yong on Slack!
+- If anything about this is unclear (or if the displayed results are not correct), please message Penny Yong on Slack!
